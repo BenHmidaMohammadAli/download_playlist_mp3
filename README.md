@@ -8,10 +8,11 @@ This Python script allows you to download a YouTube playlist as MP3 files. It ut
    `git clone https://github.com/BenHmidaMohammadAli/download_playlist_mp3.git`
    
 2. Navigate to the project directory:
-    `cd youtube_playlist_downloader`
+    `cd download_playlist_mp3`
 
 3. Create a virtual environment (optional but recommended):
-    `python3 -m venv myenv   # Create a virtual environment named myenv`
+    `python3 -m venv myenv   
+    # Create a virtual environment named myenv`
 
 4. Activate the virtual environment:
     `source myenv/bin/activate   # For Linux/Mac`
